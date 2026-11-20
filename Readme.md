@@ -9,7 +9,7 @@
 # Exercice 3
 Non il n'en faut pas.
 
-# Exercice 01.2
+# Exercice stock
 
 # Exercice 1
 if (process.argv[2]) peut être trompeur car JavaScript considère le nombre 0 comme une valeur fausse. Il faut donc comparer explicitement la valeur à 0 pour détecter une rupture de stock.
